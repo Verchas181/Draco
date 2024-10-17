@@ -1,2 +1,2 @@
 # Draco
-Um rascunho de um text RPG 
+Um rascunho de um text RPG em Java
